@@ -19,6 +19,13 @@ ibmcloud cf install
 
 ## Installation
 
+Update submodules
+
+```shell
+git submodule init
+git submodule update
+```
+
 Deploy the CloundFoundry application under IBM Cloud
 
 ```shell
